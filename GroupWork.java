@@ -11,6 +11,10 @@ public class GroupWork{
         // Using Math.max to find the larger number
         int maxNumber = Math.max(num1, num2);
 
+
+        // Displaying the result
+        System.out.println("The larger number is: " + maxNumber);
+
         // Displaying the result
         System.out.println("The larger number is: " + maxNumber);
         scanner.close();
